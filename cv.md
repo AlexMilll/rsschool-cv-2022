@@ -11,7 +11,21 @@ The opportunities that open up in the field of information technology inspire an
 ## Skills:
 HTML, CSS, JavaScript (Basic)  
 Java (Basic)  
+# Aliaksei Miliun
+## Contact information:
+**Phone number**: +375-29-88-64-309   
+**Discord**: Aliaksei Milun (AlexMilll)  
+**E-mail**: milunaleksej@gmail.com  
+**Linkedln**: Aliaksei-Miliun  
+**GitHub**: AlexMilll  
+**Codewars**: AlexMilll
+## About Me:
+The opportunities that open up in the field of information technology inspire and cause a great desire to move in this direction, to gain knowledge. Purposeful, communicative, stress-resistant, I feel good and navigate in a new environment, I like to travel.
+## Skills:
+HTML, CSS, JavaScript (basic)  
+Java (basic)  
 Git/GitHub  
+Photoshop (basic)
 IntelliJ IDEA/VS Code
 Agile
 ## Code Example:
