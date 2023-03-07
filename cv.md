@@ -58,4 +58,4 @@ Belorussian - native
 Russian- native  
 English-A2  
 Polish - B1  
-Ukrainian - B1
+Ukrainian - B2
