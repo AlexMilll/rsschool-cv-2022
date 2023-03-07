@@ -1,6 +1,6 @@
 # Aliaksei Miliun
 ## Contact information:
-**Phone number**: +375-29-88-64-309   
+**Phone number**: +370-637-97-856   
 **Discord**: Aliaksei Milun (AlexMilll)  
 **E-mail**: milunaleksej@gmail.com  
 **Linkedln**: Aliaksei-Miliun  
@@ -13,7 +13,7 @@ HTML, CSS, JavaScript (Basic)
 Java (Basic)  
 # Aliaksei Miliun
 ## Contact information:
-**Phone number**: +375-29-88-64-309   
+**Phone number**: +370-637-97-856   
 **Discord**: Aliaksei Milun (AlexMilll)  
 **E-mail**: milunaleksej@gmail.com  
 **Linkedln**: Aliaksei-Miliun  
